@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: paper.aux
+The style file: apj.bst
+Database file #1: paperNotes.bib
+Database file #2: /Users/the_neekster/Documents/MENDELEY/MEND_bibtexfiles/SanchezCGM2018.bib.bib
+Repeated entry---line 667 of file /Users/the_neekster/Documents/MENDELEY/MEND_bibtexfiles/SanchezCGM2018.bib.bib
+ : @article{Tremmel2015
+ :                     ,
+I'm skipping whatever remains of this entry
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty journal in Werk2016
+You've used 24 entries,
+            3085 wiz_defined-function locations,
+            837 strings with 10763 characters,
+and the built_in function-call counts, 12464 in all, are:
+= -- 1026
+> -- 997
+< -- 5
++ -- 338
+- -- 371
+* -- 1108
+:= -- 2375
+add.period$ -- 24
+call.type$ -- 24
+change.case$ -- 185
+chr.to.int$ -- 24
+cite$ -- 25
+duplicate$ -- 456
+empty$ -- 670
+format.name$ -- 401
+if$ -- 2434
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 24
+newline$ -- 76
+num.names$ -- 96
+pop$ -- 205
+preamble$ -- 1
+purify$ -- 185
+quote$ -- 0
+skip$ -- 369
+stack$ -- 0
+substring$ -- 495
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 216
+warning$ -- 1
+while$ -- 91
+width$ -- 0
+write$ -- 241
+(There was 1 error message)

@@ -1,0 +1,41 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{FOD{\etalchar{+}}13}
+
+\bibitem[FOD{\etalchar{+}}13]{Ford2013}
+Amanda~Brady Ford, Benjamin~D. Oppenheimer, Romeel Dav{\'{e}}, Neal Katz,
+  Juna~A. Kollmeier, and David~H. Weinberg.
+\newblock {Hydrogen and metal line absorption around low-redshift galaxies in
+  cosmological hydrodynamic simulations}.
+\newblock {\em Monthly Notices of the Royal Astronomical Society},
+  432(1):89--112, 2013.
+
+
+\bibitem[OCS{\etalchar{+}}16]{Oppenheimer2016}
+Benjamin~D. Oppenheimer, Robert~A. Crain, Joop Schaye, Alireza Rahmati,
+  Alexander~J. Richings, James~W. Trayford, Jason Tumlinson, Richard~G. Bower,
+  Matthieu Schaller, and Tom Theuns.
+\newblock {Bimodality of low-redshift circumgalactic O VI in non-equilibrium
+  EAGLE zoom simulations}.
+\newblock {\em Monthly Notices of the Royal Astronomical Society},
+  460(2):2157--2179, 2016.
+ \begin{quotation}\noindent Relevant for OVI study. \end{quotation}
+
+\bibitem[OSS{\etalchar{+}}17]{Oppenheimer2017}
+Benjamin~D. Oppenheimer, Marijke Segers, Joop Schaye, Alexander~J. Richings,
+  and Robert~A. Crain.
+\newblock {Flickering AGN can explain the strong circumgalactic O VI observed
+  by COS-Halos}.
+\newblock {\em eprint arXiv:1705.07897}, 000(May), 2017.
+ \begin{quotation}\noindent "Cool paper, Less relevant" According to Jess.
+  Decide whether to keep in bibtex after reading. \end{quotation}
+
+\bibitem[PTR{\etalchar{+}}17]{Pontzen2017}
+Andrew Pontzen, Michael Tremmel, Nina Roth, Hiranya~V Peiris, Am{\'{e}}lie
+  Saintonge, Marta Volonteri, Tom Quinn, and Fabio Governato.
+\newblock {How to quench a galaxy}.
+\newblock {\em Monthly Notices of the Royal Astronomical Society},
+  465(1):547--558, feb 2017.
+ \begin{quotation}\noindent Important GM paper from Pontzen. Look to for
+  \end{quotation}
+
+\end{thebibliography}

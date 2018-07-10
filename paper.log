@@ -1,0 +1,881 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  9 JUL 2018 20:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**paper.tex
+(./paper.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/emulateapj/emulateapj.cls
+Document Class: emulateapj 
+\bibbaselineskip=\skip41
+(/usr/local/texlive/2015/texmf-dist/tex/latex/revtex/revtex4-1.cls
+Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revt
+ex4/ for documentation)
+ Copyright (c) 2009 The American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <arthur_ogawa at sbcglobal dot net>
+ Based on work by David Carlisle <david at dcarlisle.demon.co.uk>.
+ltxutil[2010/07/25/20:33:00 4.1r utilities package (portions licensed from W. E
+. Baxter web at superscript.com)]
+LaTeX Info: Redefining \@centercr on input line 308.
+Class revtex4-1 Info: Repairing broken LaTeX eqnarray on input line 358.
+\eqncolsep=\skip42
+Class revtex4-1 Info: Repairing hyperref-unfriendly LaTeX definition of \mpfoot
+note on input line 433.
+Class revtex4-1 Info: Repairing broken LateX \@sect on input line 755.
+\intertabularlinepenalty=\count79
+\@tbpen=\count80
+\@arstrutbox@hline=\box26
+Class revtex4-1 Info: Repairing broken LaTeX \@xbitor on input line 1786.
+Class revtex4-1 Info: Making \typeout \long on input line 2046.
+ltxfront[2010/07/25/20:33:00 4.1r frontmatter package (AO,DPC)]
+\c@affil=\count81
+\c@collab=\count82
+\absbox=\box27
+ltxgrid[2010/07/25/20:33:00 4.1r page grid package (portions licensed from W. E
+. Baxter web at superscript.com)]
+\c@linecount=\count83
+\output@latex=\toks14
+\box@size@1=\box28
+\box@size@2=\box29
+\@protection@box=\box30
+\@topmark@saved=\toks15
+\footins@saved=\box31
+\footins@recovered=\box32
+\column@recovered=\box33
+\pagesofar=\box34
+\footsofar=\box35
+\pagegrid@col=\count84
+Class revtex4-1 Info: Overriding \@vspace, \@vspacer, \@no@pgbk, \@newline, and
+ \\  on input line 5578.
+\c@part=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\abovecaptionskip=\skip43
+\belowcaptionskip=\skip44
+\c@figure=\count91
+\fbox@1=\box36
+\c@table=\count92
+\fbox@2=\box37
+\c@video=\count93
+\fbox@4=\box38
+\@bibdataout=\write3
+\widetext@top=\box39
+\widetext@bot=\box40
+
+Class revtex4-1 Warning: No Society specified, using default society aps.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/revtex/aps4-1.rtx
+File: aps4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for docu
+mentation)
+Class revtex4-1 Info: RevTeX society APS selected on input line 31.
+)
+
+Class revtex4-1 Warning: No journal specified, using default pra.
+
+Class revtex4-1 Info: APS journal PRA selected on input line 7545.
+
+Class revtex4-1 Warning: No type size specified, using default 10.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/revtex/aps10pt4-1.rtx
+File: aps10pt4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for 
+documentation)
+Class revtex4-1 Info: RevTeX pointsize 10pt selected on input line 30.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip45
+\bibsep=\skip46
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count94
+)
+Class revtex4-1 Info: Repairing natbib's \BibitemShut on input line 7549.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/revtex/revsymb4-1.sty
+Package: revsymb4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ f
+or documentation)
+LaTeX Info: Redefining \REV@mathfrak on input line 119.
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count95
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+LaTeX Info: Redefining \frak on input line 111.
+LaTeX Info: Redefining \Bbb on input line 113.
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip47
+\LTright=\skip48
+\LTpre=\skip49
+\LTpost=\skip50
+\LTchunksize=\count96
+\LTcapwidth=\dimen104
+\LT@head=\box41
+\LT@firsthead=\box42
+\LT@foot=\box43
+\LT@lastfoot=\box44
+\LT@cols=\count97
+\LT@rows=\count98
+\c@LT@tables=\count99
+\c@LT@chunks=\count100
+\LT@p@ftn=\toks18
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/epsf/epsf.sty
+This is `epsf.tex' v2.7.4 <14 February 2011>
+\epsffilein=\read1
+\epsfframemargin=\dimen105
+\epsfframethickness=\dimen106
+\epsfrsize=\dimen107
+\epsftmp=\dimen108
+\epsftsize=\dimen109
+\epsfxsize=\dimen110
+\epsfysize=\dimen111
+\pspoints=\dimen112
+)
+\c@front@matter@foot@note=\count101
+\alt@affil@toks=\toks19
+\alt@affil@toks@count=\toks20
+\keys@width=\skip51
+\c@lastfootnote=\count102
+\c@remember@figure@num=\count103
+\c@remember@table@num=\count104
+\bibindent=\dimen113
+\plot@width=\skip52
+\c@table@save=\count105
+\table@note@skip=\skip53
+\deluxe@table@width=\skip54
+\@d@t@a=\skip55
+\c@deluxe@table@num=\count106
+\abovedeluxetableskip=\skip56
+\belowdeluxetableskip=\skip57
+\lastrowheight=\dimen114
+\DT@p@ftn=\toks21
+\pt@column=\count107
+\pt@ncol=\count108
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen115
+\Hy@linkcounter=\count109
+\Hy@pagecounter=\count110
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count111
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4319.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing ON on input line 4461.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/backref.sty
+Package: backref 2012/07/25 v1.38 Bibliographical back referencing
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+LaTeX Info: Redefining \href on input line 4952.
+\c@Hy@tempcnt=\count112
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen116
+\Fld@menulength=\count113
+\Field@Width=\dimen117
+\Fld@charsize=\dimen118
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing ON on input line 6308.
+Package hyperref Info: Link coloring ON on input line 6313.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count114
+\c@Item=\count115
+\c@Hfootnote=\count116
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count117
+\c@bookmark@seq@number=\count118
+\Hy@SectionHShift=\skip58
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
+))
+Class revtex4-1 Info: Patching LaTeX tabular. on input line 20.
+Class revtex4-1 Info: Patching unrecognized longtable package. (Proceeding with
+ fingers crossed) on input line 20.
+Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 20.
+
+Class revtex4-1 Info: cite was not loaded (OK!) on input line 20.
+Class revtex4-1 Info: mcite was not loaded (OK!) on input line 20.
+Class revtex4-1 Info: multicol was not loaded (OK!) on input line 20.
+
+(./paper.aux
+
+LaTeX Warning: Label `phasediagrams' multiply defined.
+
+)
+\openout1 = `paper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+ (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count119
+\scratchdimen=\dimen119
+\scratchbox=\box45
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count122
+\MPscratchDim=\dimen120
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
+\everyMPtoPDFconversion=\toks23
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box46
+Package backref Info: ** backref set up for natbib ** on input line 20.
+Package hyperref Info: Link coloring ON on input line 20.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count125
+)
+LaTeX Info: Redefining \ref on input line 20.
+LaTeX Info: Redefining \pageref on input line 20.
+LaTeX Info: Redefining \nameref on input line 20.
+
+(./paper.out) (./paper.out)
+\@outlinefile=\write4
+\openout4 = `paper.out'.
+
+Class revtex4-1 Info: Taking \maketitle back from hyperref on input line 20.
+\openout3 = `paperNotes.bib'.
+
+LaTeX Font Info:    Try loading font information for U+lasy on input line 74.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 74.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 74.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
+(Font)              using `OT1/cmr/bx/n' instead on input line 74.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--96
+
+ []
+
+
+Underfull \hbox (badness 1603) in paragraph at lines 90--96
+\OT1/cmr/m/n/10 Both the RO-MU-LUS25 sim-u-la-tion and our set of
+ []
+
+[1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 199.
+
+<ROMhistogram.pdf, id=144, 462.52798pt x 346.89601pt>
+File: ROMhistogram.pdf Graphic file (type pdf)
+ <use ROMhistogram.pdf>
+Package pdftex.def Info: ROMhistogram.pdf used on input line 200.
+(pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
+
+[2 <./ROMhistogram.pdf>] <ALLBH_sfh.pdf, id=218, 462.52798pt x 346.89601pt>
+File: ALLBH_sfh.pdf Graphic file (type pdf)
+
+<use ALLBH_sfh.pdf>
+Package pdftex.def Info: ALLBH_sfh.pdf used on input line 265.
+(pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
+ <ALLnoBH_sfh.pdf, id=219, 462.52798pt x 346.89601pt>
+File: ALLnoBH_sfh.pdf Graphic file (type pdf)
+
+<use ALLnoBH_sfh.pdf>
+Package pdftex.def Info: ALLnoBH_sfh.pdf used on input line 267.
+(pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<ALLGM_BHmass.pdf, id=220, 462.52798pt x 346.89601pt>
+File: ALLGM_BHmass.pdf Graphic file (type pdf)
+ <use ALLGM_BHmass.pdf>
+Package pdftex.def Info: ALLGM_BHmass.pdf used on input line 273.
+(pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
+
+<ALLGM_BHaccrrate.pdf, id=221, 462.52798pt x 346.89601pt>
+File: ALLGM_BHaccrrate.pdf Graphic file (type pdf)
+
+<use ALLGM_BHaccrrate.pdf>
+Package pdftex.def Info: ALLGM_BHaccrrate.pdf used on input line 274.
+(pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3 <./ALLBH_sfh.pdf> <./ALLnoBH_sfh.pdf
+
+pdfTeX warning: pdflatex (file ./ALLnoBH_sfh.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+>]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 281.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 281.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
+<P0_phasediagram_mass.pdf, id=288, 505.89pt x 361.35pt>
+File: P0_phasediagram_mass.pdf Graphic file (type pdf)
+
+<use P0_phasediagram_mass.pdf>
+Package pdftex.def Info: P0_phasediagram_mass.pdf used on input line 298.
+(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
+
+<P0noBH_phasediagram_mass.pdf, id=289, 505.89pt x 361.35pt>
+File: P0noBH_phasediagram_mass.pdf Graphic file (type pdf)
+
+<use P0noBH_phasediagram_mass.pdf>
+Package pdftex.def Info: P0noBH_phasediagram_mass.pdf used on input line 298.
+(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
+
+<GM1_phasediagram_mass.pdf, id=290, 505.89pt x 361.35pt>
+File: GM1_phasediagram_mass.pdf Graphic file (type pdf)
+
+<use GM1_phasediagram_mass.pdf>
+Package pdftex.def Info: GM1_phasediagram_mass.pdf used on input line 301.
+(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
+
+<GM1noBH_phasediagram_mass.pdf, id=291, 505.89pt x 361.35pt>
+File: GM1noBH_phasediagram_mass.pdf Graphic file (type pdf)
+
+<use GM1noBH_phasediagram_mass.pdf>
+Package pdftex.def Info: GM1noBH_phasediagram_mass.pdf used on input line 301.
+(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
+
+<GM2_phasediagram_mass.pdf, id=292, 505.89pt x 361.35pt>
+File: GM2_phasediagram_mass.pdf Graphic file (type pdf)
+
+<use GM2_phasediagram_mass.pdf>
+Package pdftex.def Info: GM2_phasediagram_mass.pdf used on input line 304.
+(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
+
+<GM2noBH_phasediagram_mass.pdf, id=293, 505.89pt x 361.35pt>
+File: GM2noBH_phasediagram_mass.pdf Graphic file (type pdf)
+
+<use GM2noBH_phasediagram_mass.pdf>
+Package pdftex.def Info: GM2noBH_phasediagram_mass.pdf used on input line 304.
+(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
+
+<GM3_phasediagram_mass_test.pdf, id=294, 505.89pt x 361.35pt>
+File: GM3_phasediagram_mass_test.pdf Graphic file (type pdf)
+
+<use GM3_phasediagram_mass_test.pdf>
+Package pdftex.def Info: GM3_phasediagram_mass_test.pdf used on input line 307.
+
+(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
+
+<GM3noBH_phasediagram_mass.pdf, id=295, 505.89pt x 361.35pt>
+File: GM3noBH_phasediagram_mass.pdf Graphic file (type pdf)
+
+<use GM3noBH_phasediagram_mass.pdf>
+Package pdftex.def Info: GM3noBH_phasediagram_mass.pdf used on input line 307.
+(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
+
+
+Class revtex4-1 Warning: Float cannot be placed.
+
+
+LaTeX Warning: Float too large for page by 34.33136pt on input line 310.
+
+File: P0_phasediagram_mass.pdf Graphic file (type pdf)
+<use P0_phasediagram_mass.pdf>
+Package pdftex.def Info: P0_phasediagram_mass.pdf used on input line 316.
+(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
+
+<P0_phasediagram_metallicity.pdf, id=297, 505.89pt x 361.35pt>
+File: P0_phasediagram_metallicity.pdf Graphic file (type pdf)
+
+<use P0_phasediagram_metallicity.pdf>
+Package pdftex.def Info: P0_phasediagram_metallicity.pdf used on input line 316
+.
+(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
+
+<P0_phasediagram_Rkpc.pdf, id=298, 505.89pt x 361.35pt>
+File: P0_phasediagram_Rkpc.pdf Graphic file (type pdf)
+
+<use P0_phasediagram_Rkpc.pdf>
+Package pdftex.def Info: P0_phasediagram_Rkpc.pdf used on input line 316.
+(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
+File: P0noBH_phasediagram_mass.pdf Graphic file (type pdf)
+ <use P0noBH_phasediagram_mass.pdf>
+Package pdftex.def Info: P0noBH_phasediagram_mass.pdf used on input line 320.
+(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
+
+<P0noBH_phasediagram_metallicity.pdf, id=299, 505.89pt x 361.35pt>
+File: P0noBH_phasediagram_metallicity.pdf Graphic file (type pdf)
+
+<use P0noBH_phasediagram_metallicity.pdf>
+Package pdftex.def Info: P0noBH_phasediagram_metallicity.pdf used on input line
+ 320.
+(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
+
+<P0noBH_phasediagram_Rkpc.pdf, id=300, 505.89pt x 361.35pt>
+File: P0noBH_phasediagram_Rkpc.pdf Graphic file (type pdf)
+
+<use P0noBH_phasediagram_Rkpc.pdf>
+Package pdftex.def Info: P0noBH_phasediagram_Rkpc.pdf used on input line 320.
+(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
+File: GM2_phasediagram_mass.pdf Graphic file (type pdf)
+ <use GM2_phasediagram_mass.pdf>
+Package pdftex.def Info: GM2_phasediagram_mass.pdf used on input line 324.
+(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
+
+<GM2_phasediagram_metallicity.pdf, id=301, 505.89pt x 361.35pt>
+File: GM2_phasediagram_metallicity.pdf Graphic file (type pdf)
+
+<use GM2_phasediagram_metallicity.pdf>
+Package pdftex.def Info: GM2_phasediagram_metallicity.pdf used on input line 32
+4.
+(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
+
+<GM2_phasediagram_Rkpc.pdf, id=302, 505.89pt x 361.35pt>
+File: GM2_phasediagram_Rkpc.pdf Graphic file (type pdf)
+
+<use GM2_phasediagram_Rkpc.pdf>
+Package pdftex.def Info: GM2_phasediagram_Rkpc.pdf used on input line 324.
+(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
+
+
+Class revtex4-1 Warning: Float cannot be placed.
+
+<Novi_profile_ALLMWROM_plusobs.pdf, id=306, 462.52798pt x 346.89601pt>
+File: Novi_profile_ALLMWROM_plusobs.pdf Graphic file (type pdf)
+
+<use Novi_profile_ALLMWROM_plusobs.pdf>
+Package pdftex.def Info: Novi_profile_ALLMWROM_plusobs.pdf used on input line 3
+44.
+(pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
+
+<Novi_profile_ALLMWROM_GMs_plusobs.pdf, id=307, 462.52798pt x 346.89601pt>
+File: Novi_profile_ALLMWROM_GMs_plusobs.pdf Graphic file (type pdf)
+
+<use Novi_profile_ALLMWROM_GMs_plusobs.pdf>
+Package pdftex.def Info: Novi_profile_ALLMWROM_GMs_plusobs.pdf used on input li
+ne 344.
+(pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
+ [4 <./ALLGM_BHmass.pdf> <./ALLGM_BHaccrrate.pdf
+
+pdfTeX warning: pdflatex (file ./ALLGM_BHaccrrate.pdf): PDF inclusion: multiple
+ pdfs with page group included in a single page
+>]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 354.
+
+[5 <./P0_phasediagram_mass.pdf> <./P0noBH_phasediagram_mass.pdf
+
+pdfTeX warning: pdflatex (file ./P0noBH_phasediagram_mass.pdf): PDF inclusion: 
+multiple pdfs with page group included in a single page
+> <./GM1_phasediagram_mass.pdf
+
+pdfTeX warning: pdflatex (file ./GM1_phasediagram_mass.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+> <./GM1noBH_phasediagram_mass.pdf
+
+pdfTeX warning: pdflatex (file ./GM1noBH_phasediagram_mass.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+> <./GM2_phasediagram_mass.pdf
+
+pdfTeX warning: pdflatex (file ./GM2_phasediagram_mass.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+> <./GM2noBH_phasediagram_mass.pdf
+
+pdfTeX warning: pdflatex (file ./GM2noBH_phasediagram_mass.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+> <./GM3_phasediagram_mass_test.pdf
+
+pdfTeX warning: pdflatex (file ./GM3_phasediagram_mass_test.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./GM3noBH_phasediagram_mass.pdf
+
+pdfTeX warning: pdflatex (file ./GM3noBH_phasediagram_mass.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 354.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
+<ALLGMs_plusnoBH_Novi_R.pdf, id=747, 462.52798pt x 346.89601pt>
+File: ALLGMs_plusnoBH_Novi_R.pdf Graphic file (type pdf)
+
+<use ALLGMs_plusnoBH_Novi_R.pdf>
+Package pdftex.def Info: ALLGMs_plusnoBH_Novi_R.pdf used on input line 357.
+(pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<ALLGMs_plusnoBH_T_R.pdf, id=749, 462.52798pt x 346.89601pt>
+File: ALLGMs_plusnoBH_T_R.pdf Graphic file (type pdf)
+
+<use ALLGMs_plusnoBH_T_R.pdf>
+Package pdftex.def Info: ALLGMs_plusnoBH_T_R.pdf used on input line 375.
+(pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
+
+<ALLGMs_plusnoBH_rho_R.pdf, id=750, 462.52798pt x 346.89601pt>
+File: ALLGMs_plusnoBH_rho_R.pdf Graphic file (type pdf)
+
+<use ALLGMs_plusnoBH_rho_R.pdf>
+Package pdftex.def Info: ALLGMs_plusnoBH_rho_R.pdf used on input line 375.
+(pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
+
+<ALLGMs_plusnoBH_totgasmass_R.pdf, id=751, 462.52798pt x 346.89601pt>
+File: ALLGMs_plusnoBH_totgasmass_R.pdf Graphic file (type pdf)
+
+<use ALLGMs_plusnoBH_totgasmass_R.pdf>
+Package pdftex.def Info: ALLGMs_plusnoBH_totgasmass_R.pdf used on input line 37
+7.
+(pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
+
+<ALLGMs_plusnoBH_Z_R.pdf, id=752, 462.52798pt x 346.89601pt>
+File: ALLGMs_plusnoBH_Z_R.pdf Graphic file (type pdf)
+
+<use ALLGMs_plusnoBH_Z_R.pdf>
+Package pdftex.def Info: ALLGMs_plusnoBH_Z_R.pdf used on input line 377.
+(pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
+
+<ALLGMs_DISKmetals_R_plusnoBHs.pdf, id=754, 462.52798pt x 346.89601pt>
+File: ALLGMs_DISKmetals_R_plusnoBHs.pdf Graphic file (type pdf)
+
+<use ALLGMs_DISKmetals_R_plusnoBHs.pdf>
+Package pdftex.def Info: ALLGMs_DISKmetals_R_plusnoBHs.pdf used on input line 3
+83.
+(pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<OPPEN_fig10_ROMgxys_plushighmass.pdf, id=761, 722.7pt x 289.08pt>
+File: OPPEN_fig10_ROMgxys_plushighmass.pdf Graphic file (type pdf)
+
+<use OPPEN_fig10_ROMgxys_plushighmass.pdf>
+Package pdftex.def Info: OPPEN_fig10_ROMgxys_plushighmass.pdf used on input lin
+e 400.
+(pdftex.def)             Requested size: 722.69823pt x 289.07928pt.
+ [6]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 434.
+
+[7 <./P0_phasediagram_metallicity.pdf> <./P0_phasediagram_Rkpc.pdf
+
+pdfTeX warning: pdflatex (file ./P0_phasediagram_Rkpc.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+> <./P0noBH_phasediagram_metallicity.pdf
+
+pdfTeX warning: pdflatex (file ./P0noBH_phasediagram_metallicity.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./P0noBH_phasediagram_Rkpc.pdf
+
+pdfTeX warning: pdflatex (file ./P0noBH_phasediagram_Rkpc.pdf): PDF inclusion: 
+multiple pdfs with page group included in a single page
+> <./GM2_phasediagram_metallicity.pdf
+
+pdfTeX warning: pdflatex (file ./GM2_phasediagram_metallicity.pdf): PDF inclusi
+on: multiple pdfs with page group included in a single page
+> <./GM2_phasediagram_Rkpc.pdf
+
+pdfTeX warning: pdflatex (file ./GM2_phasediagram_Rkpc.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 434.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
+
+LaTeX Warning: Command \textemdash invalid in math mode on input line 435.
+
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 437.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 437.
+ (./paper.bbl
+(./paper.brf)
+\tf@brf=\write5
+\openout5 = `paper.brf'.
+
+ [8 <./Novi_profile_ALLMWROM_plusobs.pdf> <./Novi_profile_ALLMWROM_GMs_plusobs.
+pdf
+
+pdfTeX warning: pdflatex (file ./Novi_profile_ALLMWROM_GMs_plusobs.pdf): PDF in
+clusion: multiple pdfs with page group included in a single page
+> <./ALLGMs_plusnoBH_Novi_R.pdf
+
+pdfTeX warning: pdflatex (file ./ALLGMs_plusnoBH_Novi_R.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]) [9 <./ALLGMs_plusnoBH_T_R.pdf> <./ALLGMs_plusnoBH_rho_R.pdf
+
+pdfTeX warning: pdflatex (file ./ALLGMs_plusnoBH_rho_R.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+> <./ALLGMs_plusnoBH_totgasmass_R.pdf
+
+pdfTeX warning: pdflatex (file ./ALLGMs_plusnoBH_totgasmass_R.pdf): PDF inclusi
+on: multiple pdfs with page group included in a single page
+> <./ALLGMs_plusnoBH_Z_R.pdf
+
+pdfTeX warning: pdflatex (file ./ALLGMs_plusnoBH_Z_R.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+> <./ALLGMs_DISKmetals_R_plusnoBHs.pdf
+
+pdfTeX warning: pdflatex (file ./ALLGMs_DISKmetals_R_plusnoBHs.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
+>] [10 <./OPPEN_fig10_ROMgxys_plushighmass.pdf>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 476.
+ (./paper.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 476.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 476.
+Package rerunfilecheck Info: File `paper.out' has not changed.
+(rerunfilecheck)             Checksum: AD7307183A1CF67125FCAA13EE98B9FA;993.
+Package rerunfilecheck Info: File `paper.brf' has not changed.
+(rerunfilecheck)             Checksum: 95E35680E57C45F5240E683FB76DAACA;1892.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 8807 strings out of 493089
+ 126855 string characters out of 6134842
+ 245822 words of memory out of 5000000
+ 12100 multiletter control sequences out of 15000+600000
+ 13491 words of font info for 55 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,9n,35p,1805b,507s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><
+/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/
+local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/lo
+cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loca
+l/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/t
+exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texl
+ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/20
+15/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2015/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2015/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2015/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2015/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2015/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on paper.pdf (10 pages, 1604653 bytes).
+PDF statistics:
+ 1541 PDF objects out of 1728 (max. 8388607)
+ 639 compressed objects within 7 object streams
+ 61 named destinations out of 1000 (max. 500000)
+ 261 words of extra memory for PDF output out of 10000 (max. 10000000)
+
