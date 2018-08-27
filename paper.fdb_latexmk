@@ -1,5 +1,5 @@
 # Fdb version 3
-["bibtex paper"] 1535326394 "paper.aux" "paper.bbl" "paper" 1535326396
+["bibtex paper"] 1535326394 "paper.aux" "paper.bbl" "paper" 1535328257
   "./apj.bst" 1441819402 32322 4a17c9f5e812aa8cc9be2cb4e0271ea5 ""
   "/Users/the_neekster/Documents/MENDELEY/MEND_bibtexfiles/SanchezCGM2018.bib" 1533502653 85528 f1f6a9f0d6f8b0658c61563c813ed669 ""
   "paper.aux" 1535326395 10857 fabad9c01d3f41b53903878418e0b62b ""
@@ -8,7 +8,7 @@
   (generated)
   "paper.blg"
   "paper.bbl"
-["pdflatex"] 1535326394 "paper.tex" "paper.pdf" "paper" 1535326396
+["pdflatex"] 1535326394 "paper.tex" "paper.pdf" "paper" 1535328257
   "./ALLBH_sfh.pdf" 1530237891 131791 27d523b4034076392fdb4bb817b4f40b ""
   "./ALLGMs_DISKmetals_R_plusnoBHs.pdf" 1530241691 23233 fd77e3089cfc94c80dc4486be944aead ""
   "./ALLGMs_plusnoBH_Novi_R.pdf" 1530160968 29865 5eecd90684bba03a8d0786c36406f548 ""
@@ -178,9 +178,9 @@
   "paper.out" 1535326395 1033 ea56449b998afd958e56f5d7da03a687 ""
   "paper.tex" 1535326393 54779 b739b62364daff7455a5b7294361332c ""
   (generated)
-  "paperNotes.bib"
-  "paper.out"
-  "paper.brf"
   "paper.pdf"
-  "paper.log"
+  "paper.out"
   "paper.aux"
+  "paper.brf"
+  "paperNotes.bib"
+  "paper.log"
