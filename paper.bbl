@@ -1,13 +1,64 @@
 \begin{thebibliography}{}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
-\bibitem[{Ferland {et~al.}(1998)Ferland, Korista, Verner, Ferguson, Kingdon, \&
-  Verner}]{Ferland1998}
-Ferland, G., Korista, K., Verner, D., {et~al.} 1998, Publications of the
-  Astronomical Society of the Pacific, 110, 761
+\bibitem[{Angl{\'{e}}s-Alc{\'{a}}zar {et~al.}(2017)Angl{\'{e}}s-Alc{\'{a}}zar,
+  Dav{\'{e}}, Faucher-Gigu{\`{e}}re, {\"{O}}zel, \&
+  Hopkins}]{Angles-Alcazar2017}
+Angl{\'{e}}s-Alc{\'{a}}zar, D., Dav{\'{e}}, R., Faucher-Gigu{\`{e}}re, C.-A.,
+  {\"{O}}zel, F., \& Hopkins, P.~F. 2017, Monthly Notices of the Royal
+  Astronomical Society, 464, 2840
+
+\bibitem[{Bordoloi {et~al.}(2011)Bordoloi, Lilly, Knobel, Bolzonella, Kampczyk,
+  Carollo, Iovino, Zucca, Contini, Kneib, {Le Fevre}, Mainieri, Renzini,
+  Scodeggio, Zamorani, Balestra, Bardelli, Bongiorno, Caputi, Cucciati, {De La
+  Torre}, {De Ravel}, Garilli, Kova{\v{c}}, Lamareille, {Le Borgne}, {Le Brun},
+  Maier, Mignoli, Pello, Peng, {Perez Montero}, Presotto, Scarlata, Silverman,
+  Tanaka, Tasca, Tresse, Vergani, Barnes, Cappi, Cimatti, Coppa, Diener,
+  Franzetti, Koekemoer, L{\'{o}}pez-Sanjuan, McCracken, Moresco, Nair, Oesch,
+  Pozzetti, \& Welikala}]{Bordoloi2011}
+Bordoloi, R., Lilly, S.~J., Knobel, C., {et~al.} 2011, Astrophysical Journal,
+  743, arXiv:1106.0616
+
+\bibitem[{Borthakur {et~al.}(2015)Borthakur, Heckman, Tumlinson, Bordoloi,
+  Thom, Catinella, Schiminovich, Dav{\"{i}}¿½, Kauffmann, Moran, \&
+  Saintonge}]{Borthakur2015}
+Borthakur, S., Heckman, T., Tumlinson, J., {et~al.} 2015, Astrophysical
+  Journal, 813, 46
+
+\bibitem[{Cen(2013)}]{Cen2013}
+Cen, R. 2013, Astrophysical Journal, 770, 1
+
+\bibitem[{Danforth {et~al.}(2016)Danforth, Keeney, Tilton, Shull, Stocke,
+  Stevans, Pieri, Savage, France, Syphers, Smith, Green, Froning, Penton, \&
+  Osterman}]{Danforth2016}
+Danforth, C.~W., Keeney, B.~A., Tilton, E.~M., {et~al.} 2016, The Astrophysical
+  Journal, 817, 111
+
+\bibitem[{Ferland {et~al.}(2013)Ferland, Porter, {Van Hoof}, Williams, Abel,
+  Lykins, Shaw, Henney, \& Stancil}]{Ferland2013}
+Ferland, G.~J., Porter, R.~L., {Van Hoof}, P. A.~M., {et~al.} 2013, Revista
+  Mexicana de Astronomia y Astrofisica, 49, 137
 
 \bibitem[{Ferrarese \& Merritt(2000)}]{Ferrarese2000}
 Ferrarese, L., \& Merritt, D. 2000, The Astrophysical Journal, 539, L9
+
+\bibitem[{Ford {et~al.}(2016{\natexlab{a}})Ford, Werk, Dav{\'{e}}, Tumlinson,
+  Bordoloi, Katz, Kollmeier, Oppenheimer, Peeples, Prochaska, Weinberg, \&
+  Ford}]{Ford2016b}
+Ford, A.~B., Werk, J.~K., Dav{\'{e}}, R., {et~al.} 2016{\natexlab{a}}, Monthly
+  Notices of the Royal Astronomical Society, 459, 1745
+
+\bibitem[{Ford {et~al.}(2016{\natexlab{b}})Ford, Werk, Dav{\'{e}}, Tumlinson,
+  Bordoloi, Katz, Kollmeier, Oppenheimer, Peeples, Prochaska, \&
+  Weinberg}]{Ford2016a}
+---. 2016{\natexlab{b}}, Monthly Notices of the Royal Astronomical Society,
+  459, 1745
+
+\bibitem[{Gebhardt {et~al.}(2000)Gebhardt, Kormendy, Ho, Bender, Bower,
+  Dressler, Faber, Filippenko, Green, Grillmair, Lauer, Magorrian, Pinkney,
+  Richstone, \& Tremaine}]{Gebhardt2000}
+Gebhardt, K., Kormendy, J., Ho, L.~C., {et~al.} 2000, The Astrophysical
+  Journal, 543, L5
 
 \bibitem[{Governato {et~al.}(2015)Governato, Weisz, Pontzen, Loebman, Reed,
   Brooks, Behroozi, Christensen, Madau, Mayer, Shen, Walker, Quinn, Keller, \&
@@ -18,34 +69,140 @@ Governato, F., Weisz, D., Pontzen, A., {et~al.} 2015, Monthly Notices of the
 \bibitem[{Haardt \& Madau(2012)}]{Haardt2012}
 Haardt, F., \& Madau, P. 2012, The Astrophysical Journal, 746, 125
 
+\bibitem[{Hayes {et~al.}(2016)Hayes, Melinder, {\"{O}}stlin, Scarlata, Lehnert,
+  \& Mannerstr{\"{o}}m-jansson}]{Hayes2016}
+Hayes, M., Melinder, J., {\"{O}}stlin, G., {et~al.} 2016, The Astrophysical
+  Journal, 828, 1
+
+\bibitem[{Heckman {et~al.}(2015)Heckman, Alexandroff, Borthakur, Overzier, \&
+  Leitherer}]{Heckman2015}
+Heckman, T.~M., Alexandroff, R.~M., Borthakur, S., Overzier, R., \& Leitherer,
+  C. 2015, Astrophysical Journal, 809, 147
+
 \bibitem[{Knollmann \& Knebe(2009)}]{Knollmann2009}
 Knollmann, S.~R., \& Knebe, A. 2009, The Astrophysical Journal Supplement
   Series, 182, 608
 
+\bibitem[{Kollmeier {et~al.}(2014)Kollmeier, Weinberg, Oppenheimer, Haardt,
+  Katz, Dav{\'{e}}, Fardal, Madau, Danforth, Ford, Peeples, \&
+  McEwen}]{Kollmeier2014}
+Kollmeier, J.~A., Weinberg, D.~H., Oppenheimer, B.~D., {et~al.} 2014, The
+  Astrophysical Journal, 789, L32
+
+\bibitem[{Kormendy \& Ho(2013)}]{Kormendy2013}
+Kormendy, J., \& Ho, L.~C. 2013, Annual Review of Astronomy and Astrophysics,
+  51, 511
+
+\bibitem[{Kroupa {et~al.}(1993)Kroupa, Tout, \& Gilmore}]{Kroupa1993}
+Kroupa, P., Tout, C.~A., \& Gilmore, G. 1993, Monthly Notices of the Royal
+  Astronomical Society, 262, 545
+
+\bibitem[{Martin(2006)}]{Martin2006}
+Martin, C.~L. 2006, The Astrophysical Journal, 647, 222
+
+\bibitem[{Mathews \& Prochaska(2017)}]{Mathews2017}
+Mathews, W.~G., \& Prochaska, J.~X. 2017, arXiv e-prints, 846, L24
+
 \bibitem[{Mcconnell \& Ma(2013)}]{Mcconnell2013}
 Mcconnell, N.~J., \& Ma, C.-P. 2013, The Astrophysical Journal, 764, 184
+
+\bibitem[{Mcquinn \& Werk(2017)}]{McQuinn2017}
+Mcquinn, M., \& Werk, J.~K. 2017, arXiv:arXiv:1703.03422v2
 
 \bibitem[{Menon {et~al.}(2015)Menon, Wesolowski, Zheng, Jetley, Kale, Quinn, \&
   Governato}]{Menon2015}
 Menon, H., Wesolowski, L., Zheng, G., {et~al.} 2015, Computational Astrophysics
   and Cosmology, 2, 1
 
-\bibitem[{Pontzen {et~al.}(2017)Pontzen, Tremmel, Roth, Peiris, Saintonge,
-  Volonteri, Quinn, \& Governato}]{Pontzen2016}
-Pontzen, A., Tremmel, M., Roth, N., {et~al.} 2017, Monthly Notices of the Royal
-  Astronomical Society, 465, 547
+\bibitem[{Nelson {et~al.}(2018)Nelson, Kauffmann, Pillepich, Genel, Springel,
+  Pakmor, Hernquist, Weinberger, Torrey, Vogelsberger, \&
+  Marinacci}]{Nelson2018}
+Nelson, D., Kauffmann, G., Pillepich, A., {et~al.} 2018, Monthly Notices of the
+  Royal Astronomical Society, 477, 450
+
+\bibitem[{Nicastro {et~al.}(2005)Nicastro, Mathur, Elvis, Drake, Fang,
+  Fruscione, Krongold, Marshall, Williams, \& Zezas}]{Nicastro2005}
+Nicastro, F., Mathur, S., Elvis, M., {et~al.} 2005, Nature, 433, 495
+
+\bibitem[{Oppenheimer \& Dav{\'{e}}(2008)}]{Oppenheimer2008}
+Oppenheimer, B.~D., \& Dav{\'{e}}, R. 2008, Monthly Notices of the Royal
+  Astronomical Society, 387, 577
+
+\bibitem[{Oppenheimer {et~al.}(2018)Oppenheimer, Segers, Schaye, Richings, \&
+  Crain}]{Oppenheimer2018}
+Oppenheimer, B.~D., Segers, M., Schaye, J., Richings, A.~J., \& Crain, R.~A.
+  2018, Monthly Notices of the Royal Astronomical Society, 474, 4740
+
+\bibitem[{Oppenheimer {et~al.}(2016)Oppenheimer, Crain, Schaye, Rahmati,
+  Richings, Trayford, Tumlinson, Bower, Schaller, \& Theuns}]{Oppenheimer2016}
+Oppenheimer, B.~D., Crain, R.~A., Schaye, J., {et~al.} 2016, Monthly Notices of
+  the Royal Astronomical Society, 460, 2157
+
+\bibitem[{Peek {et~al.}(2015)Peek, M{\'{e}}nard, \& Corrales}]{Peek2015}
+Peek, J.~E., M{\'{e}}nard, B., \& Corrales, L. 2015, Astrophysical Journal,
+  813, 7
+
+\bibitem[{Pontzen {et~al.}(2013)Pontzen, Rovskar, Stinson, R.;, \& {Reed, D.M.;
+  and Coles, J. and Quinn}}]{pynbody}
+Pontzen, A., Rovskar, R., Stinson, G., R.;, W., \& {Reed, D.M.; and Coles, J.
+  and Quinn}, T. 2013, {pynbody: Astrophysics Simulation Analysis for Python},
+  doi:2013ascl.soft05002P
+
+\bibitem[{Pontzen {et~al.}(2017{\natexlab{a}})Pontzen, Tremmel, Roth, Peiris,
+  Saintonge, Volonteri, Quinn, \& Governato}]{Pontzen2016}
+Pontzen, A., Tremmel, M., Roth, N., {et~al.} 2017{\natexlab{a}}, Monthly
+  Notices of the Royal Astronomical Society, 465, 547
+
+\bibitem[{Pontzen {et~al.}(2017{\natexlab{b}})Pontzen, Tremmel, Roth, Peiris,
+  Saintonge, Volonteri, Quinn, \& Governato}]{Pontzen2017a}
+---. 2017{\natexlab{b}}, Monthly Notices of the Royal Astronomical Society,
+  465, 547
+
+\bibitem[{Putman {et~al.}(2012)Putman, Peek, \& Joung}]{Putman2012a}
+Putman, M.~E., Peek, J. E.~G., \& Joung, M.~R. 2012, 491
+
+\bibitem[{Reines \& Volonteri(2015)}]{Reines2015c}
+Reines, A.~E., \& Volonteri, M. 2015, The Astrophysical Journal, 813, 82
 
 \bibitem[{Ritchie \& Thomas(2001)}]{Ritchie2001}
 Ritchie, B.~W., \& Thomas, P.~A. 2001, Monthly Notices of the Royal
   Astronomical Society, 323, 743
 
+\bibitem[{Rosas-Guevara {et~al.}(2015)Rosas-Guevara, Bower, Schaye, Furlong,
+  Frenk, Booth, Crain, {Dalla Vecchia}, Schaller, \&
+  Theuns}]{Rosas-Guevara2015}
+Rosas-Guevara, Y.~M., Bower, R.~G., Schaye, J., {et~al.} 2015, Monthly Notices
+  of the Royal Astronomical Society, 454, 1
+
 \bibitem[{Roth {et~al.}(2016)Roth, Pontzen, \& Peiris}]{Roth2016}
 Roth, N., Pontzen, A., \& Peiris, H.~V. 2016, Monthly Notices of the Royal
   Astronomical Society, 455, 974
 
+\bibitem[{Rubin {et~al.}(2014)Rubin, Prochaska, Koo, Phillips, Martin, \&
+  Winstrom}]{Rubin2014}
+Rubin, K.~H., Prochaska, J.~X., Koo, D.~C., {et~al.} 2014, Astrophysical
+  Journal, 794, arXiv:1307.1476
+
+\bibitem[{Sanchez {et~al.}(2018)Sanchez, Bellovary, Holley-Bockelmann, Tremmel,
+  Brooks, Governato, Quinn, Volonteri, \& Wadsley}]{Sanchez2017}
+Sanchez, N.~N., Bellovary, J.~M., Holley-Bockelmann, K., {et~al.} 2018, The
+  Astrophysical Journal, 860, 20
+
 \bibitem[{Shen {et~al.}(2010)Shen, Wadsley, \& Stinson}]{Shen2010}
 Shen, S., Wadsley, J., \& Stinson, G. 2010, Monthly Notices of the Royal
   Astronomical Society, 407, 1581
+
+\bibitem[{Shull {et~al.}(2015)Shull, Moloney, Danforth, \& Tilton}]{Shull2015}
+Shull, J.~M., Moloney, J., Danforth, C.~W., \& Tilton, E.~M. 2015,
+  Astrophysical Journal, 811, 3
+
+\bibitem[{Springel(2005)}]{Springel2005a}
+Springel, V. 2005, Monthly Notices of the Royal Astronomical Society, 364, 1105
+
+\bibitem[{Steidel {et~al.}(2010)Steidel, Erb, Shapley, Pettini, Reddy,
+  Bogosavljevi{\'{c}}, Rudie, \& Rakic}]{Steidel2010}
+Steidel, C.~C., Erb, D.~K., Shapley, A.~E., {et~al.} 2010, Astrophysical
+  Journal, 717, 289
 
 \bibitem[{Stinson {et~al.}(2006)Stinson, Seth, Katz, Wadsley, Governato, \&
   Quinn}]{Stinson2006}
@@ -56,6 +213,11 @@ Stinson, G., Seth, A., Katz, N., {et~al.} 2006, Monthly Notices of the Royal
   Wadsley, Pontzen, Couchman, Quinn, Macci{\`{o}}, \& Gibson}]{Stinson2012}
 Stinson, G.~S., Brook, C., Prochaska, J.~X., {et~al.} 2012, Monthly Notices of
   the Royal Astronomical Society, 425, 1270
+
+\bibitem[{Stocke {et~al.}(2013)Stocke, Keeney, Danforth, Shull, Froning, Green,
+  Penton, \& Savage}]{Stocke2013}
+Stocke, J.~T., Keeney, B.~A., Danforth, C.~W., {et~al.} 2013, Astrophysical
+  Journal, 763, arXiv:1704.00235
 
 \bibitem[{Suresh {et~al.}(2017)Suresh, Rubin, Kannan, Werk, Hernquist, \&
   Vogelsberger}]{Suresh2017}
@@ -80,6 +242,9 @@ Tumlinson, J., Peeples, M.~S., \& Werk, J.~K. 2017, Annual Review of Astronomy
   Weinberg, Peeples, O'Meara, Oppenheimer, Meiring, Katz, Dave, Ford, \&
   Sembach}]{Tumlinson2011}
 Tumlinson, J., Thom, C., Werk, J.~K., {et~al.} 2011, Science, 334, 948
+
+\bibitem[{Volonteri \& Bellovary(2012)}]{Volonteri2012b}
+Volonteri, M., \& Bellovary, J. 2012, Reports on Progress in Physics, 75, 1
 
 \bibitem[{Wadsley {et~al.}(2004)Wadsley, Stadel, \& Quinn}]{Wadsley2004}
 Wadsley, J., Stadel, J., \& Quinn, T. 2004, New Astronomy, 9, 137
@@ -106,5 +271,12 @@ Werk, J.~K., Prochaska, J.~X., Tumlinson, J., {et~al.} 2014, The Astrophysical
 \bibitem[{Werk {et~al.}(2016)Werk, Prochaska, Cantalupo, Fox, Oppenheimer,
   Tumlinson, Tripp, Lehner, \& McQuinn}]{Werk2016}
 Werk, J.~K., Prochaska, J.~X., Cantalupo, S., {et~al.} 2016, 24
+
+\bibitem[{York {et~al.}(2006)York, Khare, {Vanden Berk}, Kulkarni, Crotts,
+  Lauroesch, Richards, Schneider, Welty, Alsayyad, Kumar, Lundgren, Shanidze,
+  Smith, Vanlandingham, Baugher, Hall, Jenkins, Menard, Rao, Tumlinson,
+  Turnshek, Yip, \& Brinkmann}]{York2006}
+York, D.~G., Khare, P., {Vanden Berk}, D., {et~al.} 2006, Monthly Notices of
+  the Royal Astronomical Society, 367, 945
 
 \end{thebibliography}

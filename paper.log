@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  29 AUG 2018 15:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  28 SEP 2018 16:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -417,446 +417,426 @@ LaTeX Info: Redefining \nameref on input line 20.
 Class revtex4-1 Info: Taking \maketitle back from hyperref on input line 20.
 \openout3 = `paperNotes.bib'.
 
-LaTeX Font Info:    Try loading font information for U+lasy on input line 77.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 62.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 77.
+LaTeX Font Info:    Try loading font information for U+msa on input line 62.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 77.
+LaTeX Font Info:    Try loading font information for U+msb on input line 62.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 77.
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 93--99
-\OT1/cmr/m/n/10 ([][][]Roth et al.[][] [][]2016[][]; [][][]Pontzen et al.[][] [
-][]2017[][]) sim-u-lated
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--99
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--99
-
- []
-
-
-Underfull \hbox (badness 1603) in paragraph at lines 93--99
-\OT1/cmr/m/n/10 Both the RO-MU-LUS25 sim-u-la-tion and our set of
- []
+(Font)              using `OT1/cmr/bx/n' instead on input line 76.
 
 [1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 97--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--104
+
+ []
+
+
+Underfull \hbox (badness 2875) in paragraph at lines 97--104
+\OT1/cmr/m/n/10 Using these iso-lated, zoom-in sim-u-la-tions in tan-
+ []
+
+[2]
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 214.
+
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 214.
+
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 202.
+               Default added (so using `tbp') on input line 216.
 
-<ROMhistogram.pdf, id=143, 462.52798pt x 346.89601pt>
-File: ROMhistogram.pdf Graphic file (type pdf)
-<use ROMhistogram.pdf>
-Package pdftex.def Info: ROMhistogram.pdf  used on input line 203.
+<ROM_Mstellar_Mhalo.pdf, id=276, 462.52798pt x 346.89601pt>
+File: ROM_Mstellar_Mhalo.pdf Graphic file (type pdf)
+<use ROM_Mstellar_Mhalo.pdf>
+Package pdftex.def Info: ROM_Mstellar_Mhalo.pdf  used on input line 217.
 (pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
-[2 <./ROMhistogram.pdf>]
-<ALLBH_sfh.pdf, id=219, 462.52798pt x 346.89601pt>
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 223.
+
+<P0_faceon_gas.pdf, id=277, 423.55183pt x 322.02185pt>
+File: P0_faceon_gas.pdf Graphic file (type pdf)
+<use P0_faceon_gas.pdf>
+Package pdftex.def Info: P0_faceon_gas.pdf  used on input line 225.
+(pdftex.def)             Requested size: 423.55078pt x 322.02106pt.
+<P0_edgeon_gas.pdf, id=278, 423.45927pt x 325.7007pt>
+File: P0_edgeon_gas.pdf Graphic file (type pdf)
+<use P0_edgeon_gas.pdf>
+Package pdftex.def Info: P0_edgeon_gas.pdf  used on input line 227.
+(pdftex.def)             Requested size: 423.45824pt x 325.69989pt.
+[3 <./ROM_Mstellar_Mhalo.pdf> <./P0_faceon_gas.pdf> <./P0_edgeon_gas.pdf>]
+<ALLBH_sfh.pdf, id=370, 462.52798pt x 346.89601pt>
 File: ALLBH_sfh.pdf Graphic file (type pdf)
 <use ALLBH_sfh.pdf>
-Package pdftex.def Info: ALLBH_sfh.pdf  used on input line 266.
+Package pdftex.def Info: ALLBH_sfh.pdf  used on input line 312.
 (pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
-<ALLnoBH_sfh.pdf, id=220, 462.52798pt x 346.89601pt>
+<ALLnoBH_sfh.pdf, id=371, 462.52798pt x 346.89601pt>
 File: ALLnoBH_sfh.pdf Graphic file (type pdf)
 <use ALLnoBH_sfh.pdf>
-Package pdftex.def Info: ALLnoBH_sfh.pdf  used on input line 268.
+Package pdftex.def Info: ALLnoBH_sfh.pdf  used on input line 314.
 (pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<P0_GM4_bhmass_age.pdf, id=221, 462.52798pt x 346.89601pt>
-File: P0_GM4_bhmass_age.pdf Graphic file (type pdf)
-<use P0_GM4_bhmass_age.pdf>
-Package pdftex.def Info: P0_GM4_bhmass_age.pdf  used on input line 276.
-(pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
-<P0_GM4and7_bhaccr_age.pdf, id=222, 462.52798pt x 346.89601pt>
-File: P0_GM4and7_bhaccr_age.pdf Graphic file (type pdf)
-<use P0_GM4and7_bhaccr_age.pdf>
-Package pdftex.def Info: P0_GM4and7_bhaccr_age.pdf  used on input line 277.
-(pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
+<ALL_bhaccrmass_age.pdf, id=372, 423.5452pt x 311.05832pt>
+File: ALL_bhaccrmass_age.pdf Graphic file (type pdf)
+<use ALL_bhaccrmass_age.pdf>
+Package pdftex.def Info: ALL_bhaccrmass_age.pdf  used on input line 322.
+(pdftex.def)             Requested size: 423.54416pt x 311.05754pt.
+<ALLGM_BHaccrrate.pdf, id=373, 435.11089pt x 312.96614pt>
+File: ALLGM_BHaccrrate.pdf Graphic file (type pdf)
+<use ALLGM_BHaccrrate.pdf>
+Package pdftex.def Info: ALLGM_BHaccrrate.pdf  used on input line 323.
+(pdftex.def)             Requested size: 435.10982pt x 312.96538pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3 <./ALLBH_sfh.pdf> <./ALLnoBH_sfh.pdf
+[4 <./ALLBH_sfh.pdf> <./ALLnoBH_sfh.pdf
 
 pdfTeX warning: pdflatex (file ./ALLnoBH_sfh.pdf): PDF inclusion: multiple pdfs
  with page group included in a single page
 >]
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 286.
-
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 286.
-
-
-Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
-
-<P0_phasediagram_mass.pdf, id=290, 505.89pt x 361.35pt>
-File: P0_phasediagram_mass.pdf Graphic file (type pdf)
-<use P0_phasediagram_mass.pdf>
-Package pdftex.def Info: P0_phasediagram_mass.pdf  used on input line 301.
-(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
-<P0noBH_phasediagram_mass.pdf, id=291, 505.89pt x 361.35pt>
-File: P0noBH_phasediagram_mass.pdf Graphic file (type pdf)
-<use P0noBH_phasediagram_mass.pdf>
-Package pdftex.def Info: P0noBH_phasediagram_mass.pdf  used on input line 301.
-(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
-<GM1_phasediagram_mass.pdf, id=292, 505.89pt x 361.35pt>
-File: GM1_phasediagram_mass.pdf Graphic file (type pdf)
-<use GM1_phasediagram_mass.pdf>
-Package pdftex.def Info: GM1_phasediagram_mass.pdf  used on input line 304.
-(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
-<GM1noBH_phasediagram_mass.pdf, id=293, 505.89pt x 361.35pt>
-File: GM1noBH_phasediagram_mass.pdf Graphic file (type pdf)
-<use GM1noBH_phasediagram_mass.pdf>
-Package pdftex.def Info: GM1noBH_phasediagram_mass.pdf  used on input line 304.
-
-(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
-<GM2_phasediagram_mass.pdf, id=294, 505.89pt x 361.35pt>
-File: GM2_phasediagram_mass.pdf Graphic file (type pdf)
-<use GM2_phasediagram_mass.pdf>
-Package pdftex.def Info: GM2_phasediagram_mass.pdf  used on input line 307.
-(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
-<GM2noBH_phasediagram_mass.pdf, id=295, 505.89pt x 361.35pt>
-File: GM2noBH_phasediagram_mass.pdf Graphic file (type pdf)
-<use GM2noBH_phasediagram_mass.pdf>
-Package pdftex.def Info: GM2noBH_phasediagram_mass.pdf  used on input line 307.
-
-(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
-<GM3_phasediagram_mass.pdf, id=296, 505.89pt x 361.35pt>
-File: GM3_phasediagram_mass.pdf Graphic file (type pdf)
-<use GM3_phasediagram_mass.pdf>
-Package pdftex.def Info: GM3_phasediagram_mass.pdf  used on input line 310.
-(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
-<GM3noBH_phasediagram_mass.pdf, id=297, 505.89pt x 361.35pt>
-File: GM3noBH_phasediagram_mass.pdf Graphic file (type pdf)
-<use GM3noBH_phasediagram_mass.pdf>
-Package pdftex.def Info: GM3noBH_phasediagram_mass.pdf  used on input line 310.
-
-(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
-
-Class revtex4-1 Warning: Float cannot be placed.
-
-
-LaTeX Warning: Float too large for page by 34.33136pt on input line 313.
-
-File: P0_phasediagram_mass.pdf Graphic file (type pdf)
-<use P0_phasediagram_mass.pdf>
-Package pdftex.def Info: P0_phasediagram_mass.pdf  used on input line 319.
-(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
-<P0_phasediagram_metallicity.pdf, id=299, 505.89pt x 361.35pt>
-File: P0_phasediagram_metallicity.pdf Graphic file (type pdf)
-<use P0_phasediagram_metallicity.pdf>
-Package pdftex.def Info: P0_phasediagram_metallicity.pdf  used on input line 31
-9.
-(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
-<P0_phasediagram_Rkpc.pdf, id=300, 505.89pt x 361.35pt>
-File: P0_phasediagram_Rkpc.pdf Graphic file (type pdf)
-<use P0_phasediagram_Rkpc.pdf>
-Package pdftex.def Info: P0_phasediagram_Rkpc.pdf  used on input line 319.
-(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
-File: GM2_phasediagram_mass.pdf Graphic file (type pdf)
-<use GM2_phasediagram_mass.pdf>
-Package pdftex.def Info: GM2_phasediagram_mass.pdf  used on input line 323.
-(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
-<GM2_phasediagram_metallicity.pdf, id=301, 505.89pt x 361.35pt>
-File: GM2_phasediagram_metallicity.pdf Graphic file (type pdf)
-<use GM2_phasediagram_metallicity.pdf>
-Package pdftex.def Info: GM2_phasediagram_metallicity.pdf  used on input line 3
-23.
-(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
-<GM2_phasediagram_Rkpc.pdf, id=302, 505.89pt x 361.35pt>
-File: GM2_phasediagram_Rkpc.pdf Graphic file (type pdf)
-<use GM2_phasediagram_Rkpc.pdf>
-Package pdftex.def Info: GM2_phasediagram_Rkpc.pdf  used on input line 323.
-(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
-File: P0noBH_phasediagram_mass.pdf Graphic file (type pdf)
-<use P0noBH_phasediagram_mass.pdf>
-Package pdftex.def Info: P0noBH_phasediagram_mass.pdf  used on input line 327.
-(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
-<P0noBH_phasediagram_metallicity.pdf, id=303, 505.89pt x 361.35pt>
-File: P0noBH_phasediagram_metallicity.pdf Graphic file (type pdf)
-<use P0noBH_phasediagram_metallicity.pdf>
-Package pdftex.def Info: P0noBH_phasediagram_metallicity.pdf  used on input lin
-e 327.
-(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
-<P0noBH_phasediagram_Rkpc.pdf, id=304, 505.89pt x 361.35pt>
-File: P0noBH_phasediagram_Rkpc.pdf Graphic file (type pdf)
-<use P0noBH_phasediagram_Rkpc.pdf>
-Package pdftex.def Info: P0noBH_phasediagram_Rkpc.pdf  used on input line 327.
-(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
-File: GM2noBH_phasediagram_mass.pdf Graphic file (type pdf)
-<use GM2noBH_phasediagram_mass.pdf>
-Package pdftex.def Info: GM2noBH_phasediagram_mass.pdf  used on input line 331.
-
-(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
-<GM2noBH_phasediagram_metallicity.pdf, id=305, 505.89pt x 361.35pt>
-File: GM2noBH_phasediagram_metallicity.pdf Graphic file (type pdf)
-<use GM2noBH_phasediagram_metallicity.pdf>
-Package pdftex.def Info: GM2noBH_phasediagram_metallicity.pdf  used on input li
-ne 331.
-(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
-<GM2noBH_phasediagram_Rkpc.pdf, id=306, 505.89pt x 361.35pt>
-File: GM2noBH_phasediagram_Rkpc.pdf Graphic file (type pdf)
-<use GM2noBH_phasediagram_Rkpc.pdf>
-Package pdftex.def Info: GM2noBH_phasediagram_Rkpc.pdf  used on input line 331.
-
-(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
-
-Class revtex4-1 Warning: Float cannot be placed.
-
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 344.
-
-(/usr/local/texlive/2018/texmf-dist/tex/latex/base/omlcmr.fd
-File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 344.
- [4 <./P0_GM4_bhmass_age.pdf> <./P0_GM4and7_bhaccr_age.pdf
-
-pdfTeX warning: pdflatex (file ./P0_GM4and7_bhaccr_age.pdf): PDF inclusion: mul
-tiple pdfs with page group included in a single page
->]
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 349.
-
-[5 <./P0_phasediagram_mass.pdf> <./P0noBH_phasediagram_mass.pdf
-
-pdfTeX warning: pdflatex (file ./P0noBH_phasediagram_mass.pdf): PDF inclusion: 
-multiple pdfs with page group included in a single page
-> <./GM1_phasediagram_mass.pdf
-
-pdfTeX warning: pdflatex (file ./GM1_phasediagram_mass.pdf): PDF inclusion: mul
-tiple pdfs with page group included in a single page
-> <./GM1noBH_phasediagram_mass.pdf
-
-pdfTeX warning: pdflatex (file ./GM1noBH_phasediagram_mass.pdf): PDF inclusion:
- multiple pdfs with page group included in a single page
-> <./GM2_phasediagram_mass.pdf
-
-pdfTeX warning: pdflatex (file ./GM2_phasediagram_mass.pdf): PDF inclusion: mul
-tiple pdfs with page group included in a single page
-> <./GM2noBH_phasediagram_mass.pdf
-
-pdfTeX warning: pdflatex (file ./GM2noBH_phasediagram_mass.pdf): PDF inclusion:
- multiple pdfs with page group included in a single page
-> <./GM3_phasediagram_mass.pdf
-
-pdfTeX warning: pdflatex (file ./GM3_phasediagram_mass.pdf): PDF inclusion: mul
-tiple pdfs with page group included in a single page
-> <./GM3noBH_phasediagram_mass.pdf
-
-pdfTeX warning: pdflatex (file ./GM3noBH_phasediagram_mass.pdf): PDF inclusion:
- multiple pdfs with page group included in a single page
->]
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 349.
-
-
-Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
-
-<Novi_profile_ALLMWROM_plusobs.pdf, id=756, 462.52798pt x 346.89601pt>
-File: Novi_profile_ALLMWROM_plusobs.pdf Graphic file (type pdf)
-<use Novi_profile_ALLMWROM_plusobs.pdf>
-Package pdftex.def Info: Novi_profile_ALLMWROM_plusobs.pdf  used on input line 
-352.
+<Novi_profile_COSHalosrange_plusobs_z0_17.pdf, id=472, 462.52798pt x 346.89601p
+t>
+File: Novi_profile_COSHalosrange_plusobs_z0_17.pdf Graphic file (type pdf)
+<use Novi_profile_COSHalosrange_plusobs_z0_17.pdf>
+Package pdftex.def Info: Novi_profile_COSHalosrange_plusobs_z0_17.pdf  used on 
+input line 346.
 (pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
-<Novi_profile_ALLMWROM_GMs_plusobs.pdf, id=757, 462.52798pt x 346.89601pt>
-File: Novi_profile_ALLMWROM_GMs_plusobs.pdf Graphic file (type pdf)
-<use Novi_profile_ALLMWROM_GMs_plusobs.pdf>
-Package pdftex.def Info: Novi_profile_ALLMWROM_GMs_plusobs.pdf  used on input l
-ine 352.
-(pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
-<ALLGMs_plusnoBH_Novi_R.pdf, id=770, 462.52798pt x 346.89601pt>
-File: ALLGMs_plusnoBH_Novi_R.pdf Graphic file (type pdf)
-<use ALLGMs_plusnoBH_Novi_R.pdf>
-Package pdftex.def Info: ALLGMs_plusnoBH_Novi_R.pdf  used on input line 366.
-(pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<OPPEN_fig10_ROMgxys_averaged.pdf, id=771, 462.52798pt x 346.89601pt>
+<OPPEN_fig10_ROMgxys_averaged.pdf, id=473, 462.52798pt x 346.89601pt>
 File: OPPEN_fig10_ROMgxys_averaged.pdf Graphic file (type pdf)
 <use OPPEN_fig10_ROMgxys_averaged.pdf>
 Package pdftex.def Info: OPPEN_fig10_ROMgxys_averaged.pdf  used on input line 3
-72.
+54.
 (pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
-<ALLGMs_plusnoBH_T_R.pdf, id=779, 462.52798pt x 346.89601pt>
-File: ALLGMs_plusnoBH_T_R.pdf Graphic file (type pdf)
-<use ALLGMs_plusnoBH_T_R.pdf>
-Package pdftex.def Info: ALLGMs_plusnoBH_T_R.pdf  used on input line 392.
+<Novi_profile_HIGHMASSROM_plusobs.pdf, id=474, 462.52798pt x 346.89601pt>
+File: Novi_profile_HIGHMASSROM_plusobs.pdf Graphic file (type pdf)
+<use Novi_profile_HIGHMASSROM_plusobs.pdf>
+Package pdftex.def Info: Novi_profile_HIGHMASSROM_plusobs.pdf  used on input li
+ne 360.
 (pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
-<ALLGMs_plusnoBH_rho_R.pdf, id=780, 462.52798pt x 346.89601pt>
-File: ALLGMs_plusnoBH_rho_R.pdf Graphic file (type pdf)
-<use ALLGMs_plusnoBH_rho_R.pdf>
-Package pdftex.def Info: ALLGMs_plusnoBH_rho_R.pdf  used on input line 392.
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <8> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 361.
+<ALLGMs_plusnoBH_Novi_R_grp.pdf, id=475, 423.66438pt x 323.07832pt>
+File: ALLGMs_plusnoBH_Novi_R_grp.pdf Graphic file (type pdf)
+<use ALLGMs_plusnoBH_Novi_R_grp.pdf>
+Package pdftex.def Info: ALLGMs_plusnoBH_Novi_R_grp.pdf  used on input line 366
+.
+(pdftex.def)             Requested size: 423.66335pt x 323.07751pt.
+<ALLGMs_plusnoBH_T_R_grp.pdf, id=476, 414.80487pt x 322.65273pt>
+File: ALLGMs_plusnoBH_T_R_grp.pdf Graphic file (type pdf)
+<use ALLGMs_plusnoBH_T_R_grp.pdf>
+Package pdftex.def Info: ALLGMs_plusnoBH_T_R_grp.pdf  used on input line 373.
+(pdftex.def)             Requested size: 414.80385pt x 322.65193pt.
+<ALLGMs_plusnoBH_rho_R_grp.pdf, id=477, 428.43513pt x 323.02101pt>
+File: ALLGMs_plusnoBH_rho_R_grp.pdf Graphic file (type pdf)
+<use ALLGMs_plusnoBH_rho_R_grp.pdf>
+Package pdftex.def Info: ALLGMs_plusnoBH_rho_R_grp.pdf  used on input line 373.
+
+(pdftex.def)             Requested size: 428.43408pt x 323.0202pt.
+<ALLGMs_plusnoBH_Omass_R_grp.pdf, id=478, 417.57498pt x 322.96149pt>
+File: ALLGMs_plusnoBH_Omass_R_grp.pdf Graphic file (type pdf)
+<use ALLGMs_plusnoBH_Omass_R_grp.pdf>
+Package pdftex.def Info: ALLGMs_plusnoBH_Omass_R_grp.pdf  used on input line 37
+5.
+(pdftex.def)             Requested size: 417.57396pt x 322.9607pt.
+<ALLGMs_plusnoBH_Z_R_grp.pdf, id=479, 429.22247pt x 322.7233pt>
+File: ALLGMs_plusnoBH_Z_R_grp.pdf Graphic file (type pdf)
+<use ALLGMs_plusnoBH_Z_R_grp.pdf>
+Package pdftex.def Info: ALLGMs_plusnoBH_Z_R_grp.pdf  used on input line 375.
+(pdftex.def)             Requested size: 429.22142pt x 322.72249pt.
+<ALLGMs_DISKmetals_R_plusnoBH_color.pdf, id=481, 462.52798pt x 346.89601pt>
+File: ALLGMs_DISKmetals_R_plusnoBH_color.pdf Graphic file (type pdf)
+<use ALLGMs_DISKmetals_R_plusnoBH_color.pdf>
+Package pdftex.def Info: ALLGMs_DISKmetals_R_plusnoBH_color.pdf  used on input 
+line 381.
 (pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
-<ALLGMs_plusnoBH_totgasmass_R.pdf, id=781, 462.52798pt x 346.89601pt>
-File: ALLGMs_plusnoBH_totgasmass_R.pdf Graphic file (type pdf)
-<use ALLGMs_plusnoBH_totgasmass_R.pdf>
-Package pdftex.def Info: ALLGMs_plusnoBH_totgasmass_R.pdf  used on input line 3
-94.
-(pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
-<ALLGMs_plusnoBH_Z_R.pdf, id=782, 462.52798pt x 346.89601pt>
-File: ALLGMs_plusnoBH_Z_R.pdf Graphic file (type pdf)
-<use ALLGMs_plusnoBH_Z_R.pdf>
-Package pdftex.def Info: ALLGMs_plusnoBH_Z_R.pdf  used on input line 394.
-(pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
-<ALLGMs_DISKmetals_R_plusnoBHs.pdf, id=784, 462.52798pt x 346.89601pt>
-File: ALLGMs_DISKmetals_R_plusnoBHs.pdf Graphic file (type pdf)
-<use ALLGMs_DISKmetals_R_plusnoBHs.pdf>
-Package pdftex.def Info: ALLGMs_DISKmetals_R_plusnoBHs.pdf  used on input line 
-400.
-(pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[6]
+<P0_phasediagram_CGMat10_CGMmass_3456_AHF.pdf, id=483, 438.45119pt x 322.9652pt
+>
+File: P0_phasediagram_CGMat10_CGMmass_3456_AHF.pdf Graphic file (type pdf)
+<use P0_phasediagram_CGMat10_CGMmass_3456_AHF.pdf>
+Package pdftex.def Info: P0_phasediagram_CGMat10_CGMmass_3456_AHF.pdf  used on 
+input line 389.
+(pdftex.def)             Requested size: 438.4501pt x 322.9644pt.
+<P0noBH_phasediagram_CGMat10_CGMmass_3456_AHF.pdf, id=484, 438.22424pt x 323.15
+26pt>
+File: P0noBH_phasediagram_CGMat10_CGMmass_3456_AHF.pdf Graphic file (type pdf)
+<use P0noBH_phasediagram_CGMat10_CGMmass_3456_AHF.pdf>
+Package pdftex.def Info: P0noBH_phasediagram_CGMat10_CGMmass_3456_AHF.pdf  used
+ on input line 389.
+(pdftex.def)             Requested size: 438.22318pt x 323.15181pt.
+<GM1_phasediagram_CGMat10_CGMmass_3456_AHF.pdf, id=485, 439.65472pt x 323.87549
+pt>
+File: GM1_phasediagram_CGMat10_CGMmass_3456_AHF.pdf Graphic file (type pdf)
+<use GM1_phasediagram_CGMat10_CGMmass_3456_AHF.pdf>
+Package pdftex.def Info: GM1_phasediagram_CGMat10_CGMmass_3456_AHF.pdf  used on
+ input line 392.
+(pdftex.def)             Requested size: 439.65364pt x 323.8747pt.
+<GM1noBH_phasediagram_CGMat10_CGMmass_3456_AHF.pdf, id=486, 439.30864pt x 323.1
+5482pt>
+File: GM1noBH_phasediagram_CGMat10_CGMmass_3456_AHF.pdf Graphic file (type pdf)
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 429.
+<use GM1noBH_phasediagram_CGMat10_CGMmass_3456_AHF.pdf>
+Package pdftex.def Info: GM1noBH_phasediagram_CGMat10_CGMmass_3456_AHF.pdf  use
+d on input line 392.
+(pdftex.def)             Requested size: 439.30756pt x 323.15402pt.
+<GM2_phasediagram_CGMat10_CGMmass_3456_AHF.pdf, id=487, 439.85748pt x 323.80063
+pt>
+File: GM2_phasediagram_CGMat10_CGMmass_3456_AHF.pdf Graphic file (type pdf)
+<use GM2_phasediagram_CGMat10_CGMmass_3456_AHF.pdf>
+Package pdftex.def Info: GM2_phasediagram_CGMat10_CGMmass_3456_AHF.pdf  used on
+ input line 395.
+(pdftex.def)             Requested size: 439.8564pt x 323.79982pt.
+<GM2noBH_phasediagram_CGMat10_CGMmass_3456_AHF.pdf, id=488, 439.02432pt x 322.7
+8009pt>
+File: GM2noBH_phasediagram_CGMat10_CGMmass_3456_AHF.pdf Graphic file (type pdf)
 
-[7 <./P0_phasediagram_metallicity.pdf> <./P0_phasediagram_Rkpc.pdf
+<use GM2noBH_phasediagram_CGMat10_CGMmass_3456_AHF.pdf>
+Package pdftex.def Info: GM2noBH_phasediagram_CGMat10_CGMmass_3456_AHF.pdf  use
+d on input line 395.
+(pdftex.def)             Requested size: 439.02325pt x 322.77928pt.
+<GM3_phasediagram_CGMat10_CGMmass_3456_AHF.pdf, id=489, 439.05302pt x 322.93217
+pt>
+File: GM3_phasediagram_CGMat10_CGMmass_3456_AHF.pdf Graphic file (type pdf)
+<use GM3_phasediagram_CGMat10_CGMmass_3456_AHF.pdf>
+Package pdftex.def Info: GM3_phasediagram_CGMat10_CGMmass_3456_AHF.pdf  used on
+ input line 398.
+(pdftex.def)             Requested size: 439.05196pt x 322.93138pt.
+<GM3noBH_phasediagram_CGMat10_CGMmass_3456_AHF.pdf, id=490, 438.53494pt x 323.5
+3171pt>
+File: GM3noBH_phasediagram_CGMat10_CGMmass_3456_AHF.pdf Graphic file (type pdf)
 
-pdfTeX warning: pdflatex (file ./P0_phasediagram_Rkpc.pdf): PDF inclusion: mult
-iple pdfs with page group included in a single page
-> <./GM2_phasediagram_metallicity.pdf
+<use GM3noBH_phasediagram_CGMat10_CGMmass_3456_AHF.pdf>
+Package pdftex.def Info: GM3noBH_phasediagram_CGMat10_CGMmass_3456_AHF.pdf  use
+d on input line 398.
+(pdftex.def)             Requested size: 438.53386pt x 323.5309pt.
 
-pdfTeX warning: pdflatex (file ./GM2_phasediagram_metallicity.pdf): PDF inclusi
-on: multiple pdfs with page group included in a single page
-> <./GM2_phasediagram_Rkpc.pdf
+LaTeX Warning: Float too large for page by 17.83342pt on input line 401.
 
-pdfTeX warning: pdflatex (file ./GM2_phasediagram_Rkpc.pdf): PDF inclusion: mul
-tiple pdfs with page group included in a single page
-> <./P0noBH_phasediagram_metallicity.pdf
+<P0_phasediagram_CGMat10_Omass_3456_AHF.pdf, id=491, 427.80942pt x 321.98654pt>
 
-pdfTeX warning: pdflatex (file ./P0noBH_phasediagram_metallicity.pdf): PDF incl
-usion: multiple pdfs with page group included in a single page
-> <./P0noBH_phasediagram_Rkpc.pdf
+File: P0_phasediagram_CGMat10_Omass_3456_AHF.pdf Graphic file (type pdf)
+<use P0_phasediagram_CGMat10_Omass_3456_AHF.pdf>
+Package pdftex.def Info: P0_phasediagram_CGMat10_Omass_3456_AHF.pdf  used on in
+put line 406.
+(pdftex.def)             Requested size: 427.80836pt x 321.98575pt.
+<P0_phasediagram_CGMat10_metallicity_3456_AHF.pdf, id=492, 407.34581pt x 312.09
+497pt>
+File: P0_phasediagram_CGMat10_metallicity_3456_AHF.pdf Graphic file (type pdf)
+<use P0_phasediagram_CGMat10_metallicity_3456_AHF.pdf>
+Package pdftex.def Info: P0_phasediagram_CGMat10_metallicity_3456_AHF.pdf  used
+ on input line 406.
+(pdftex.def)             Requested size: 407.34482pt x 312.0942pt.
+<P0_phasediagram_CGMat10_Rkpc_3456_AHF.pdf, id=493, 406.94879pt x 312.28017pt>
+File: P0_phasediagram_CGMat10_Rkpc_3456_AHF.pdf Graphic file (type pdf)
+<use P0_phasediagram_CGMat10_Rkpc_3456_AHF.pdf>
+Package pdftex.def Info: P0_phasediagram_CGMat10_Rkpc_3456_AHF.pdf  used on inp
+ut line 406.
+(pdftex.def)             Requested size: 406.94778pt x 312.2794pt.
+<GM3_phasediagram_CGMat10_Omass_3456_AHF.pdf, id=494, 429.3237pt x 323.65074pt>
 
-pdfTeX warning: pdflatex (file ./P0noBH_phasediagram_Rkpc.pdf): PDF inclusion: 
-multiple pdfs with page group included in a single page
-> <./GM2noBH_phasediagram_metallicity.pdf
+File: GM3_phasediagram_CGMat10_Omass_3456_AHF.pdf Graphic file (type pdf)
+<use GM3_phasediagram_CGMat10_Omass_3456_AHF.pdf>
+Package pdftex.def Info: GM3_phasediagram_CGMat10_Omass_3456_AHF.pdf  used on i
+nput line 410.
+(pdftex.def)             Requested size: 429.32265pt x 323.64995pt.
+<GM3_phasediagram_CGMat10_metallicity_3456_AHF.pdf, id=495, 408.52359pt x 312.6
+0217pt>
+File: GM3_phasediagram_CGMat10_metallicity_3456_AHF.pdf Graphic file (type pdf)
 
-pdfTeX warning: pdflatex (file ./GM2noBH_phasediagram_metallicity.pdf): PDF inc
-lusion: multiple pdfs with page group included in a single page
-> <./GM2noBH_phasediagram_Rkpc.pdf
+<use GM3_phasediagram_CGMat10_metallicity_3456_AHF.pdf>
+Package pdftex.def Info: GM3_phasediagram_CGMat10_metallicity_3456_AHF.pdf  use
+d on input line 410.
+(pdftex.def)             Requested size: 408.52258pt x 312.6014pt.
+<GM3_phasediagram_CGMat10_Rkpc_3456_AHF.pdf, id=496, 407.44727pt x 312.87349pt>
 
-pdfTeX warning: pdflatex (file ./GM2noBH_phasediagram_Rkpc.pdf): PDF inclusion:
- multiple pdfs with page group included in a single page
->]
+File: GM3_phasediagram_CGMat10_Rkpc_3456_AHF.pdf Graphic file (type pdf)
+<use GM3_phasediagram_CGMat10_Rkpc_3456_AHF.pdf>
+Package pdftex.def Info: GM3_phasediagram_CGMat10_Rkpc_3456_AHF.pdf  used on in
+put line 410.
+(pdftex.def)             Requested size: 407.44626pt x 312.87271pt.
+<P0noBH_phasediagram_CGMat10_Omass_3456_AHF.pdf, id=497, 428.9953pt x 322.52876
+pt>
+File: P0noBH_phasediagram_CGMat10_Omass_3456_AHF.pdf Graphic file (type pdf)
+<use P0noBH_phasediagram_CGMat10_Omass_3456_AHF.pdf>
+Package pdftex.def Info: P0noBH_phasediagram_CGMat10_Omass_3456_AHF.pdf  used o
+n input line 414.
+(pdftex.def)             Requested size: 428.99425pt x 322.52797pt.
+<P0noBH_phasediagram_CGMat10_metallicity_3456_AHF.pdf, id=498, 406.5629pt x 311
+.16422pt>
+File: P0noBH_phasediagram_CGMat10_metallicity_3456_AHF.pdf Graphic file (type p
+df)
+<use P0noBH_phasediagram_CGMat10_metallicity_3456_AHF.pdf>
+Package pdftex.def Info: P0noBH_phasediagram_CGMat10_metallicity_3456_AHF.pdf  
+used on input line 414.
+(pdftex.def)             Requested size: 406.5619pt x 311.16344pt.
+<P0noBH_phasediagram_CGMat10_Rkpc_3456_AHF.pdf, id=499, 405.69606pt x 313.66966
+pt>
+File: P0noBH_phasediagram_CGMat10_Rkpc_3456_AHF.pdf Graphic file (type pdf)
+<use P0noBH_phasediagram_CGMat10_Rkpc_3456_AHF.pdf>
+Package pdftex.def Info: P0noBH_phasediagram_CGMat10_Rkpc_3456_AHF.pdf  used on
+ input line 414.
+(pdftex.def)             Requested size: 405.69507pt x 313.66888pt.
+<GM3noBH_phasediagram_CGMat10_Omass_3456_AHF.pdf, id=500, 427.88655pt x 324.032
+09pt>
+File: GM3noBH_phasediagram_CGMat10_Omass_3456_AHF.pdf Graphic file (type pdf)
+<use GM3noBH_phasediagram_CGMat10_Omass_3456_AHF.pdf>
+Package pdftex.def Info: GM3noBH_phasediagram_CGMat10_Omass_3456_AHF.pdf  used 
+on input line 418.
+(pdftex.def)             Requested size: 427.8855pt x 324.0313pt.
+<GM3noBH_phasediagram_CGMat10_metallicity_3456_AHF.pdf, id=501, 408.95801pt x 3
+13.08298pt>
+File: GM3noBH_phasediagram_CGMat10_metallicity_3456_AHF.pdf Graphic file (type 
+pdf)
+<use GM3noBH_phasediagram_CGMat10_metallicity_3456_AHF.pdf>
+Package pdftex.def Info: GM3noBH_phasediagram_CGMat10_metallicity_3456_AHF.pdf 
+ used on input line 418.
+(pdftex.def)             Requested size: 408.957pt x 313.0822pt.
+<GM3noBH_phasediagram_CGMat10_Rkpc_3456_AHF.pdf, id=502, 406.9135pt x 311.15536
+pt>
+File: GM3noBH_phasediagram_CGMat10_Rkpc_3456_AHF.pdf Graphic file (type pdf)
+<use GM3noBH_phasediagram_CGMat10_Rkpc_3456_AHF.pdf>
+Package pdftex.def Info: GM3noBH_phasediagram_CGMat10_Rkpc_3456_AHF.pdf  used o
+n input line 418.
+(pdftex.def)             Requested size: 406.9125pt x 311.15459pt.
+[5 <./ALL_bhaccrmass_age.pdf> <./ALLGM_BHaccrrate.pdf>]
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 429.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 427.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 427.
 
 
 Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
 
-[8 <./Novi_profile_ALLMWROM_plusobs.pdf> <./Novi_profile_ALLMWROM_GMs_plusobs.p
-df
 
-pdfTeX warning: pdflatex (file ./Novi_profile_ALLMWROM_GMs_plusobs.pdf): PDF in
-clusion: multiple pdfs with page group included in a single page
-> <./ALLGMs_plusnoBH_Novi_R.pdf
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 432.
 
-pdfTeX warning: pdflatex (file ./ALLGMs_plusnoBH_Novi_R.pdf): PDF inclusion: mu
-ltiple pdfs with page group included in a single page
-> <./OPPEN_fig10_ROMgxys_averaged.pdf
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mskip' on input line 432.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\thickmuskip' on input line 432.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 432.
+
+[6 <./Novi_profile_COSHalosrange_plusobs_z0_17.pdf> <./OPPEN_fig10_ROMgxys_aver
+aged.pdf
 
 pdfTeX warning: pdflatex (file ./OPPEN_fig10_ROMgxys_averaged.pdf): PDF inclusi
 on: multiple pdfs with page group included in a single page
->] (./paper.bbl (./paper.brf)
+> <./Novi_profile_HIGHMASSROM_plusobs.pdf
+
+pdfTeX warning: pdflatex (file ./Novi_profile_HIGHMASSROM_plusobs.pdf): PDF inc
+lusion: multiple pdfs with page group included in a single page
+> <./ALLGMs_plusnoBH_Novi_R_grp.pdf>] [7 <./ALLGMs_plusnoBH_T_R_grp.pdf> <./ALL
+GMs_plusnoBH_rho_R_grp.pdf> <./ALLGMs_plusnoBH_Omass_R_grp.pdf> <./ALLGMs_plusn
+oBH_Z_R_grp.pdf> <./ALLGMs_DISKmetals_R_plusnoBH_color.pdf>] [8 <./P0_phasediag
+ram_CGMat10_CGMmass_3456_AHF.pdf> <./P0noBH_phasediagram_CGMat10_CGMmass_3456_A
+HF.pdf> <./GM1_phasediagram_CGMat10_CGMmass_3456_AHF.pdf> <./GM1noBH_phasediagr
+am_CGMat10_CGMmass_3456_AHF.pdf> <./GM2_phasediagram_CGMat10_CGMmass_3456_AHF.p
+df> <./GM2noBH_phasediagram_CGMat10_CGMmass_3456_AHF.pdf> <./GM3_phasediagram_C
+GMat10_CGMmass_3456_AHF.pdf> <./GM3noBH_phasediagram_CGMat10_CGMmass_3456_AHF.p
+df>]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 441.
+
+[9 <./P0_phasediagram_CGMat10_Omass_3456_AHF.pdf> <./P0_phasediagram_CGMat10_me
+tallicity_3456_AHF.pdf> <./P0_phasediagram_CGMat10_Rkpc_3456_AHF.pdf> <./GM3_ph
+asediagram_CGMat10_Omass_3456_AHF.pdf> <./GM3_phasediagram_CGMat10_metallicity_
+3456_AHF.pdf> <./GM3_phasediagram_CGMat10_Rkpc_3456_AHF.pdf> <./P0noBH_phasedia
+gram_CGMat10_Omass_3456_AHF.pdf> <./P0noBH_phasediagram_CGMat10_metallicity_345
+6_AHF.pdf> <./P0noBH_phasediagram_CGMat10_Rkpc_3456_AHF.pdf> <./GM3noBH_phasedi
+agram_CGMat10_Omass_3456_AHF.pdf> <./GM3noBH_phasediagram_CGMat10_metallicity_3
+456_AHF.pdf> <./GM3noBH_phasediagram_CGMat10_Rkpc_3456_AHF.pdf>] [10]
+<Mgasoverbaryons_BHmass.pdf, id=1335, 462.52798pt x 346.89601pt>
+File: Mgasoverbaryons_BHmass.pdf Graphic file (type pdf)
+<use Mgasoverbaryons_BHmass.pdf>
+Package pdftex.def Info: Mgasoverbaryons_BHmass.pdf  used on input line 495.
+(pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
+ [11 <./Mgasoverbaryons_BHmass.pdf>] (./paper.bbl (./paper.brf)
 \tf@brf=\write5
 \openout5 = `paper.brf'.
 
-
-Overfull \vbox (3.3245pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (3.3245pt too high) has occurred while \output is active []
-
-
-[9 <./ALLGMs_plusnoBH_T_R.pdf> <./ALLGMs_plusnoBH_rho_R.pdf
-
-pdfTeX warning: pdflatex (file ./ALLGMs_plusnoBH_rho_R.pdf): PDF inclusion: mul
-tiple pdfs with page group included in a single page
-> <./ALLGMs_plusnoBH_totgasmass_R.pdf
-
-pdfTeX warning: pdflatex (file ./ALLGMs_plusnoBH_totgasmass_R.pdf): PDF inclusi
-on: multiple pdfs with page group included in a single page
-> <./ALLGMs_plusnoBH_Z_R.pdf
-
-pdfTeX warning: pdflatex (file ./ALLGMs_plusnoBH_Z_R.pdf): PDF inclusion: multi
-ple pdfs with page group included in a single page
-> <./ALLGMs_DISKmetals_R_plusnoBHs.pdf
-
-pdfTeX warning: pdflatex (file ./ALLGMs_DISKmetals_R_plusnoBHs.pdf): PDF inclus
-ion: multiple pdfs with page group included in a single page
->]) [10]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 462.
+) [12]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 526.
  (./paper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 462.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 462.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 526.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 526.
 Package rerunfilecheck Info: File `paper.out' has not changed.
-(rerunfilecheck)             Checksum: EA56449B998AFD958E56F5D7DA03A687;1033.
+(rerunfilecheck)             Checksum: 100D9FAD9476D2DA9F4A405F8EC72326;956.
 Package rerunfilecheck Info: File `paper.brf' has not changed.
-(rerunfilecheck)             Checksum: 401913427DC4B59065D58AE1D476CBAF;1944.
+(rerunfilecheck)             Checksum: 86F105463568342A79C26C021690249D;4500.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 8721 strings out of 492649
- 126352 string characters out of 6129622
- 252785 words of memory out of 5000000
- 12415 multiletter control sequences out of 15000+600000
- 13491 words of font info for 55 fonts, out of 8000000 for 9000
+ 9027 strings out of 492649
+ 134018 string characters out of 6129622
+ 312748 words of memory out of 5000000
+ 12673 multiletter control sequences out of 15000+600000
+ 13484 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 33i,9n,35p,2018b,491s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 33i,9n,35p,1884b,378s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Doc-Start} has been referenced but does not exist
 , replaced by a fixed one
 
-</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
-/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></u
-sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr
-/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr
-/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/
-local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/lo
-cal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/loca
-l/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/
-texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/tex
-live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texliv
-e/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2
-018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2018
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2018/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2018/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2018/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2018/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2018/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2018/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on paper.pdf (10 pages, 1267010 bytes).
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></us
+r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></us
+r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr
+/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/l
+ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/loc
+al/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local
+/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/t
+exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texl
+ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive
+/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/20
+18/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2018/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2018/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2018/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2018/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2018/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2018/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2018/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2018/texmf-dist/font
+s/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on paper.pdf (12 pages, 3508816 bytes).
 PDF statistics:
- 1665 PDF objects out of 1728 (max. 8388607)
- 656 compressed objects within 7 object streams
- 62 named destinations out of 1000 (max. 500000)
- 271 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1573 PDF objects out of 1728 (max. 8388607)
+ 1102 compressed objects within 12 object streams
+ 104 named destinations out of 1000 (max. 500000)
+ 298 words of extra memory for PDF output out of 10000 (max. 10000000)
 

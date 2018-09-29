@@ -1,54 +1,68 @@
-This is BibTeX, Version 0.99d (TeX Live 2015)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: paper.aux
 The style file: apj.bst
 Database file #1: paperNotes.bib
-Database file #2: /Users/the_neekster/Documents/MENDELEY/MEND_bibtexfiles/SanchezCGM2018.bib.bib
-Repeated entry---line 560 of file /Users/the_neekster/Documents/MENDELEY/MEND_bibtexfiles/SanchezCGM2018.bib.bib
+Database file #2: /Users/noodle/Documents/MENDELEY/MEND_bibtexfiles/SanchezCGM2018.bib
+Repeated entry---line 679 of file /Users/noodle/Documents/MENDELEY/MEND_bibtexfiles/SanchezCGM2018.bib
+ : @article{Springel2005a
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 817 of file /Users/noodle/Documents/MENDELEY/MEND_bibtexfiles/SanchezCGM2018.bib
+ : @article{Tumlinson2011
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 917 of file /Users/noodle/Documents/MENDELEY/MEND_bibtexfiles/SanchezCGM2018.bib
+ : @article{Werk2012
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1071 of file /Users/noodle/Documents/MENDELEY/MEND_bibtexfiles/SanchezCGM2018.bib
  : @article{Tremmel2015
  :                     ,
 I'm skipping whatever remains of this entry
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty journal in McQuinn2017
+Warning--empty journal in Putman2012a
 Warning--empty journal in Werk2016
-You've used 24 entries,
+You've used 59 entries,
             3085 wiz_defined-function locations,
-            837 strings with 10763 characters,
-and the built_in function-call counts, 12464 in all, are:
-= -- 1026
-> -- 997
-< -- 5
-+ -- 338
-- -- 371
-* -- 1108
-:= -- 2375
-add.period$ -- 24
-call.type$ -- 24
-change.case$ -- 185
-chr.to.int$ -- 24
-cite$ -- 25
-duplicate$ -- 456
-empty$ -- 670
-format.name$ -- 401
-if$ -- 2434
-int.to.chr$ -- 1
+            1093 strings with 21608 characters,
+and the built_in function-call counts, 30569 in all, are:
+= -- 2414
+> -- 2573
+< -- 14
++ -- 863
+- -- 944
+* -- 2792
+:= -- 5889
+add.period$ -- 59
+call.type$ -- 59
+change.case$ -- 417
+chr.to.int$ -- 57
+cite$ -- 62
+duplicate$ -- 1118
+empty$ -- 1632
+format.name$ -- 1014
+if$ -- 5934
+int.to.chr$ -- 3
 int.to.str$ -- 0
-missing$ -- 24
-newline$ -- 76
-num.names$ -- 96
-pop$ -- 205
+missing$ -- 58
+newline$ -- 181
+num.names$ -- 236
+pop$ -- 459
 preamble$ -- 1
-purify$ -- 185
+purify$ -- 417
 quote$ -- 0
-skip$ -- 369
+skip$ -- 882
 stack$ -- 0
-substring$ -- 495
-swap$ -- 0
+substring$ -- 1150
+swap$ -- 4
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 216
-warning$ -- 1
-while$ -- 91
+type$ -- 531
+warning$ -- 3
+while$ -- 212
 width$ -- 0
-write$ -- 241
-(There was 1 error message)
+write$ -- 591
+(There were 4 error messages)
